@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Roman! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=rbrovko&style=flat-square&color=blue)
 
-<!--
-**rbrovko/rbrovko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Senior iOS/iPadOS/macOS Developer.
+- 💡 Interested in AI, robotics, video technologies and IoT.
+- 📍 Based in Zaporizhzhia, Ukraine.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rbrovko&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Back to business! 🗣️
