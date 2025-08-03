@@ -1,5 +1,5 @@
 ## Hi there, I'm Roman! 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=rbrovko&style=flat-square&color=blue)]
+[![Profile Views](https://komarev.com/ghpvc/?username=rbrovko&style=flat-square&color=blue)]()
 
 ## 🚀 About Me
 - 👨🏻‍💻 Senior iOS/iPadOS/macOS Developer.
