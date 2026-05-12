@@ -13,9 +13,10 @@
 <div align="Center">
 <a href="https://github.com/rbrovko/github-status">
   <img src="https://github.com/rbrovko/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true" />
-  <img src="https://github.com/rbrovko/github-status/blob/generated/overview.svg" />
-  <img src="https://github.com/rbrovko/github-status/blob/generated/languages.svg" />
+  <img src="https://github.com/rbrovko/github-stats/blob/generated/overview.svg" />
+  <img src="https://github.com/rbrovko/github-stats/blob/generated/languages.svg" />
 </a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
