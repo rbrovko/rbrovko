@@ -18,7 +18,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rbrovko&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Repos I created](https://github-contrib-stats.vercel.app/rbrovko/created.svg?max_repos=5)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/rbrovko/contributed.svg?max_repos=5)
 
 ---
 
